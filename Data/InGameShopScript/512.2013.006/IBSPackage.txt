@@ -1,0 +1,50 @@
+31@1@100@Jewel of Additional@170@80@Adds maximum additional defense option to item.   #Successful rate - 75%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1000|@8884@2@1@1000|@0@508@669
+31@2@101@Jewel of Skill@170@120@Adds skill to weapon, shield.   #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1010|@8885@2@1@1010|@0@508@669
+31@3@102@Jewel of Luck@170@120@Adds Luck option to item.    #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1020|@8886@2@1@1020|@0@508@669
+31@4@103@Jewel of Brilliance@170@150@Increases Level of rings, pendants and earrings by 1.     #Successful rate - 90%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1030|@8893@2@1@1030|@0@508@669
+31@5@135@Jewel of Excellent@170@300@Adds random excellent option with random rank on excellent item.   #(max excellent options - 4) #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1350|@8888@2@1@1350|@0@508@669
+31@6@143@Jewel of Wing@170@749@Adds random excellent option to wing.    #(max excellent options - 2)  #Successful rate - 100%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1430|@8890@2@1@1430|@0@508@669
+32@1@104@Scroll of Quickness@170@49@Increases +75 Attack Speed@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1040|@7240@2@3@1040|1041|1042|@0@508@669
+32@2@105@Scroll of Defense@170@49@Increases +750 Defense@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1050|@7241@2@3@1050|1051|1052|@0@508@669
+32@3@106@Scroll of Wrath@170@49@Increases +750 Physical Attack@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1060|@7242@2@3@1060|1061|1062|@0@508@669
+32@4@107@Scroll of Wizardry@170@49@Increases +750 Wizardry Attack@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1070|@7243@2@3@1070|1071|1072|@0@508@669
+32@5@108@Scroll of Health@170@49@Increases +3000 Health@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1080|@7244@2@3@1080|1081|1082|@0@508@669
+32@6@109@Scroll of Mana@170@49@Increases +5000 Mana@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1090|@7245@2@3@1090|1091|1092|@0@508@669
+32@7@110@Scroll of Battle@170@49@Increases +15% Critical Damage Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1100|@7265@2@3@1100|1101|1102|@0@508@669
+32@8@111@Scroll of Strength@170@49@Increases +15% Excellent Damage Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1110|@7266@2@3@1110|1111|1112|@0@508@669
+32@9@137@Seal of Ascension@170@99@Increases +10% Experience Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1370|@6699@2@3@1370|1371|1372|@0@508@669
+32@10@138@Master Seal of Ascension@170@99@Increases +10% Master Experience Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1380|@6749@2@3@1380|1381|1382|@0@508@669
+33@1@140@Reward Box of 1st Stage@170@19@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1400|@8894@2@1@1400|@0@508@669
+33@2@141@Reward Box of 2nd Stage@170@39@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1410|@8895@2@1@1410|@0@508@669
+33@3@142@Reward Box of 3rd Stage@170@99@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1420|@8896@2@1@1420|@0@508@669
+33@4@145@Reward Box of 4th Stage@170@149@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1450|@8897@2@1@1450|@0@508@669
+//33@5@146@Halloween Box@170@59@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1460|@8949@2@1@1460|@0@508@669
+34@1@112@Talisman of Chaos Assembly@170@200@You need at least a +10 ~ +15 item level upgrade to prevent this disappearing.   #Use this after putting it into the combination window.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1120|@7264@2@1@1120|@0@508@669
+34@2@113@Wizards Ring@170@199@Increases wizardry damage +10%  #Increases damage +10%  #Increases attack speed +7@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1130|@6676@2@3@1130|1131|1132|@0@508@669
+34@3@114@Hammer of Blessed Archangel@170@299@Used for Divine Archangel Weapon    #Successful rate - 100%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1140|@7511@2@1@1140|@0@508@669
+34@4@139@Panda Ring@170@99@Transform you intro Panda. #Increases zen by +25% #Attack/Wizardry/Curse +30@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1390|@6732@2@3@1390|1391|1392|@0@508@669
+34@5@144@Potion of Safety@170@120@Disabling PvP mode means you will not be able to engage in battles with other players in the open world – neither initiating attacks nor becoming their target. #Decrease Zen Drop -15%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1440|@8924@2@3@1440|1441|1442|@0@508@669
+//34@6@147@Halloween Pumpy@170@99@Increases zen drop rate +30% #Increases +10% drop Halloween Candy #Inreases damage +10% #Increases maximum life +5000@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1470|@6942@2@1@1470|@0@508@669
+//34@7@148@Jack Olantern Ring@170@49@Increases experience rate +10% #Increases drop Halloween Candy +10%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1480|@6696@2@1@1480|@0@508@669
+//34@8@149@Skeleton Transformation Ring@170@29@Increases experience rate +5% #Increases drop Halloween Candy +5%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1490|@6778@2@1@1490|@0@508@669
+35@1@115@Devil Square Ticket@170@100@10x Devil Square Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1150|@6702@2@1@1150|@0@508@669
+35@2@116@Blood Castle Ticket@170@100@10x Blood Castle Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1160|@6703@2@1@1160|@0@508@669
+35@3@117@Kalima Ticket@170@150@10x Kalima Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1170|@6704@2@1@1170|@0@508@669
+41@1@118@Jewel of Additional@170@136@Adds maximum additional defense option to item.    #Successful rate - 75%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1180|@8884@3@1@1180|@0@509@669
+41@2@119@Jewel of Skill@170@204@Adds skill to weapon, shield.    #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1190|@8885@3@1@1190|@0@509@669
+41@3@120@Jewel of Luck@170@204@Adds Luck option to item.     #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1200|@8886@3@1@1200|@0@509@669
+41@4@121@Jewel of Brilliance@170@255@Increases Level of rings, pendants and earrings by 1.      #Successful rate - 90%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1210|@8893@3@1@1210|@0@509@669
+41@5@122@Jewel of Excellent@170@510@Adds random excellent option with random rank on excellent item.    #(max excellent options - 4)  #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1220|@8888@3@1@1220|@0@509@669
+42@1@123@Scroll of Quickness@170@253@Increases +35 Attack Speed@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1230|@7240@3@3@1230|1231|1232|@0@509@669
+42@2@124@Scroll of Defense@170@253@Increases +250 Defense@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1240|@7241@3@3@1240|1241|1242|@0@509@669
+42@3@125@Scroll of Wrath@170@253@Increases +250 Physical Attack@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1250|@7242@3@3@1250|1251|1252|@0@509@669
+42@4@126@Scroll of Wizardry@170@253@Increases +250 Wizardry Attack@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1260|@7243@3@3@1260|1261|1262|@0@509@669
+42@5@127@Scroll of Health@170@253@Increases +1000 Health@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1270|@7244@3@3@1270|1271|1272|@0@509@669
+42@6@128@Scroll of Mana@170@253@Increases +2000 Mana@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1280|@7245@3@3@1280|1281|1282|@0@509@669
+42@7@129@Scroll of Battle@170@253@Increases +10% Critical Damage Rate@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1290|@7265@3@3@1290|1291|1292|@0@509@669
+42@8@130@Scroll of Strength@170@253@Increases +10% Excellent Damage Rate@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1300|@7266@3@3@1300|1301|1302|@0@509@669
+43@1@131@Talisman of Chaos Assembly@170@340@You need at least a +10 ~ +15 item level upgrade to prevent this disappearing.    #Use this after putting it into the combination window.@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1310|@7264@3@1@1310|@0@509@669
+43@2@132@Wizards Ring@170@338@Increases wizardry damage +10%   #Increases damage +10%   #Increases attack speed +7@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1320|@6676@3@3@1320|1321|1322|@0@509@669
+44@1@133@Devil Square Ticket@170@170@10x Devil Square Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1330|@6702@3@1@1330|@0@509@669
+44@2@134@Blood Castle Ticket@170@170@10x Blood Castle Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1340|@6703@3@1@1340|@0@509@669
+44@3@136@Kalima Ticket@170@255@10x Kalima Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1360|@6704@3@1@1360|@0@509@669

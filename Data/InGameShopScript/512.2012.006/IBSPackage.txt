@@ -1,0 +1,53 @@
+31@1@100@Jewel of Additional@170@79@Adds maximum additional defense option to item.  #Successful rate - 75%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1000|@7348@2@1@1000|@0@508@669
+31@2@101@Jewel of Skill@170@119@Adds skill to weapon, shield.  #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1010|@7349@2@1@1010|@0@508@669
+31@3@102@Jewel of Luck@170@119@Adds Luck option to item.   #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1020|@7350@2@1@1020|@0@508@669
+31@4@103@Jewel of Brilliance@170@149@Increases Level of rings, pendants and earrings by 1.    #Successful rate - 90%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1030|@7357@2@1@1030|@0@508@669
+31@5@135@Jewel of Excellent@170@300@Adds random excellent option with random rank on excellent item.   #(max excellent options - 4) #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1350|@7352@2@1@1350|@0@508@669
+31@6@136@Jewel of Max Harmony@170@50@Adds random maximum Harmony option to item. #Successful rate - 90%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1360|@7355@2@1@1360|@0@508@669
+31@7@137@Jewel of 380 PvP@170@75@Adds 380 PvP option to item. #Successful rate - 75%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1370|@7356@2@1@1370|@0@508@669
+31@9@139@Jewel of Wing@170@750@Adds random excellent option to wing. #(max excellent options - 2) #Successful rate - 100%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1390|@7354@2@1@1390|@0@508@669
+32@1@104@Scroll of Quickness@170@50@Increases +35 Attack Speed@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1040|@7240@2@6@1040|1041|1042|1043|1044|1045|@0@508@669
+32@2@105@Scroll of Defense@170@50@Increases +600 Defense@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1050|@7241@2@6@1050|1051|1052|1053|1054|1055|@0@508@669
+32@3@106@Scroll of Wrath@170@50@Increases +600 Physical Attack@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1060|@7242@2@6@1060|1061|1062|1063|1064|1065|@0@508@669
+32@4@107@Scroll of Wizardry@170@50@Increases +600 Wizardry Attack@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1070|@7243@2@6@1070|1071|1072|1073|1074|1075|@0@508@669
+32@5@108@Scroll of Health@170@50@Increases +3000 Health@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1080|@7244@2@6@1080|1081|1082|1083|1084|1085|@0@508@669
+32@6@109@Scroll of Mana@170@50@Increases +6000 Mana@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1090|@7245@2@6@1090|1091|1092|1093|1094|1095|@0@508@669
+32@7@110@Scroll of Battle@170@50@Increases +10% Critical Damage Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1100|@7265@2@6@1100|1101|1102|1103|1104|1105|@0@508@669
+32@8@111@Scroll of Strength@170@50@Increases +10% Excellent Damage Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1110|@7266@2@6@1110|1111|1112|1113|1114|1115|@0@508@669
+32@9@145@Seal of Ascension@170@50@Increase Experience Rate: +10%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1450|@6699@2@6@1450|1451|1452|1453|1454|1455|@0@508@669
+32@10@138@Master Seal of Ascension@170@75@Increase Master Experience Rate: +10%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1380|@6749@2@6@1380|1381|1382|1383|1384|1385|@0@508@669
+33@1@141@Box of Luck@170@100@Random drop: Box of Kundun +1 | Box of Kundun +2 | Box of Kundun +3@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1410|@7179@2@1@1410|@0@508@669
+33@2@142@Reward Box of 1st Stage@170@29@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1420|@7358@2@1@1420|@0@508@669
+33@3@147@Reward Box of 2nd Stage@170@66@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1470|@7359@2@1@1470|@0@508@669
+33@4@149@Reward Box of 3rd Stage@170@49@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1490|@7360@2@1@1490|@0@508@669
+33@5@151@Reward Box of 4th Stage@170@99@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1510|@7361@2@1@1510|@0@508@669
+33@6@153@Reward Box of 5th Stage@170@199@@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1530|@7362@2@1@1530|@0@508@669
+34@1@112@Talisman of Chaos Assembly@170@199@You need at least a +10 ~ +15 item level upgrade to prevent this disappearing.  #Use this after putting it into the combination window.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1120|@7264@2@1@1120|@0@508@669
+34@2@113@Wizards Ring@170@50@Increases wizardry damage +10% #Increases damage +10% #Increases attack speed +7@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1130|@6676@2@6@1130|1131|1132|1133|1134|1135|@0@508@669
+34@3@114@Hammer of Blessed Archangel@170@149@Used for Divine Archangel Weapon   #Successful rate - 100%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1140|@7381@2@1@1140|@0@508@669
+35@1@115@Devil Square Ticket@170@99@10x Devil Square Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1150|@6702@2@1@1150|@0@508@669
+35@2@116@Blood Castle Ticket@170@99@10x Blood Castle Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1160|@6703@2@1@1160|@0@508@669
+35@3@117@Kalima Ticket@170@149@10x Kalima Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1170|@6704@2@1@1170|@0@508@669
+41@1@118@Jewel of Skill@170@204@Adds skill to weapon, shield.   #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1180|@7349@3@1@1180|@0@509@669
+41@2@119@Jewel of Luck@170@204@Adds Luck option to item.    #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1190|@7350@3@1@1190|@0@509@669
+41@3@120@Jewel of Brilliance@170@255@Increases Level of rings, pendants and earrings by 1.     #Successful rate - 90%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1200|@7357@3@1@1200|@0@509@669
+41@4@140@Jewel of Excellent@170@510@Adds random excellent option with random rank on excellent item.    #(max excellent options - 4)  #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1400|@7352@3@1@1400|@0@509@669
+42@1@121@Scroll of Quickness@170@85@Increases +35 Attack Speed@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1210|@7240@3@6@1210|1211|1212|1213|1214|1215|@0@509@669
+42@2@122@Scroll of Defense@170@85@Increases +600 Defense@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1220|@7241@3@6@1220|1221|1222|1223|1224|1225|@0@509@669
+42@3@123@Scroll of Wrath@170@85@Increases +600 Physical Attack@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1230|@7242@3@6@1230|1231|1232|1233|1234|1235|@0@509@669
+42@4@124@Scroll of Wizardry@170@85@Increases +600 Wizardry Attack@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1240|@7243@3@6@1240|1241|1242|1243|1244|1245|@0@509@669
+42@5@125@Scroll of Health@170@85@Increases +3000 Health@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1250|@7244@3@6@1250|1251|1252|1253|1254|1255|@0@509@669
+42@6@126@Scroll of Mana@170@85@Increases +6000 Mana@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1260|@7245@3@6@1260|1261|1262|1263|1264|1265|@0@509@669
+42@7@127@Scroll of Battle@170@85@Increases +10% Critical Damage Rate@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1270|@7265@3@6@1270|1271|1272|1273|1274|1275|@0@509@669
+42@8@128@Scroll of Strength@170@85@Increases +10% Excellent Damage Rate@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1280|@7266@3@6@1280|1281|1282|1283|1284|1285|@0@509@669
+42@9@146@Seal of Ascension@170@85@Increase Experience Rate: +10%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1460|@6699@3@6@1460|1461|1462|1463|1464|1465|@0@509@669
+42@10@148@Master Seal of Ascension@170@125@Increase Master Experience Rate: +10%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1480|@6749@3@6@1480|1481|1482|1483|1484|1485|@0@509@669
+43@1@129@Talisman of Chaos Assembly@170@340@You need at least a +10 ~ +15 item level upgrade to prevent this disappearing.   #Use this after putting it into the combination window.@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1290|@7264@3@1@1290|@0@509@669
+43@2@130@Wizards Ring@170@85@Increases wizardry damage +10%  #Increases damage +10%  #Increases attack speed +7@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1300|@6676@3@6@1300|1301|1302|1303|1304|1305|@0@509@669
+43@3@131@Hammer of Blessed Archangel@170@255@Used for Divine Archangel Weapon    #Successful rate - 100%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1310|@7381@3@1@1310|@0@509@669
+44@1@132@Devil Square Ticket@170@170@10x Devil Square Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1320|@6702@3@1@1320|@0@509@669
+44@2@133@Blood Castle Ticket@170@170@10x Blood Castle Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1330|@6703@3@1@1330|@0@509@669
+44@3@134@Kalima Ticket@170@255@10x Kalima Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1340|@6704@3@1@1340|@0@509@669
+45@1@143@Box of Luck@170@170@Random drop: Box of Kundun +1 | Box of Kundun +2 | Box of Kundun +3@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1430|@7179@3@1@1430|@0@509@669
+45@2@152@Reward Box of 3rd Stage@170@83@@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1520|@7360@3@1@1520|@0@509@669
+45@3@144@Reward Box of 4th Stage@170@219@@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1440|@7361@3@1@1440|@0@509@669

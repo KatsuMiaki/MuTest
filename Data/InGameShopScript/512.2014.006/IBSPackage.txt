@@ -1,0 +1,43 @@
+31@1@101@Jewel of Skill@170@99@Adds skill to weapon, shield.    #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1010|@8885@2@1@1010|@0@508@669
+31@2@102@Jewel of Luck@170@99@Adds Luck option to item.     #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1020|@8886@2@1@1020|@0@508@669
+31@3@133@Jewel of Excellent@170@499@Adds random excellent option with random rank on excellent item.    #(max excellent options - 4)  #Successful rate - 70%@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1330|@8888@2@1@1330|@0@508@669
+32@1@104@Scroll of Quickness@170@44@Increases +50 Attack Speed@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1040|@7240@2@3@1040|1041|1042|@0@508@669
+32@2@105@Scroll of Defense@170@44@Increases +600 Defense@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1050|@7241@2@3@1050|1051|1052|@0@508@669
+32@3@106@Scroll of Wrath@170@44@Increases +600 Physical Attack@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1060|@7242@2@3@1060|1061|1062|@0@508@669
+32@4@107@Scroll of Wizardry@170@44@Increases +600 Wizardry Attack@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1070|@7243@2@3@1070|1071|1072|@0@508@669
+32@5@108@Scroll of Health@170@44@Increases +2500 Health@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1080|@7244@2@3@1080|1081|1082|@0@508@669
+32@6@109@Scroll of Mana@170@44@Increases +5000 Mana@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1090|@7245@2@3@1090|1091|1092|@0@508@669
+32@7@110@Scroll of Battle@170@44@Increases +5% Critical Damage Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1100|@7265@2@3@1100|1101|1102|@0@508@669
+32@8@111@Scroll of Strength@170@44@Increases +5% Excellent Damage Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1110|@7266@2@3@1110|1111|1112|@0@508@669
+32@9@132@Seal of Ascension@170@143@Increases +10% Experience Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1320|@6699@2@2@1320|1321|@0@508@669
+32@10@143@Master Seal of Ascension@170@143@Increases +10% Master Experience Rate@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1430|@6749@2@2@1430|1431|@0@508@669
+33@2@135@Dragon Dye@170@69@Dyes your item in the unique color ? Dragon ? a rich and vibrant hue that adds a touch of distinction.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1350|@8956@2@1@1350|@0@508@669
+33@3@136@Legendary Dye@170@69@Dyes your item in the unique color ? Legendary ? a rich and vibrant hue that adds a touch of distinction.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1360|@8957@2@1@1360|@0@508@669
+33@4@137@Guardian Dye@170@69@Dyes your item in the unique color ? Guardian ? a rich and vibrant hue that adds a touch of distinction.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1370|@8958@2@1@1370|@0@508@669
+33@5@138@Bronze Dye@170@69@Dyes your item in the unique color ? Bronze ? a rich and vibrant hue that adds a touch of distinction.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1380|@8959@2@1@1380|@0@508@669
+33@6@139@Scale Dye@170@69@Dyes your item in the unique color ? Scale ? a rich and vibrant hue that adds a touch of distinction.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1390|@8960@2@1@1390|@0@508@669
+33@7@140@Hurricane Dye@170@69@Dyes your item in the unique color ? Hurricane ? a rich and vibrant hue that adds a touch of distinction.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1400|@8961@2@1@1400|@0@508@669
+33@8@141@Pollen of Change@170@25@Resets the color and appearance of your item to its original state, undoing any modifications.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1410|@8954@2@1@1410|@0@508@669
+33@9@142@Transmogrify Emblem@170@119@Transforms the appearance of your item, allowing it to take on a completely new look while retaining its original properties.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1420|@8964@2@1@1420|@0@508@669
+34@1@112@Talisman of Chaos Assembly@170@200@You need at least a +10 ~ +15 item level upgrade to prevent this disappearing.   #Use this after putting it into the combination window.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1120|@7264@2@1@1120|@0@508@669
+34@2@113@Wizards Ring@170@199@Increases wizardry damage +10%  #Increases damage +10%  #Increases attack speed +7@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1130|@6676@2@3@1130|1131|1132|@0@508@669
+34@3@114@Magic Backpack@170@100@This item expands your inventory.@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1140|@7330@2@1@1140|@0@508@669
+35@1@115@Devil Square Ticket@170@100@10x Devil Square Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1150|@6702@2@1@1150|@0@508@669
+35@2@116@Blood Castle Ticket@170@100@10x Blood Castle Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1160|@6703@2@1@1160|@0@508@669
+35@3@117@Kalima Ticket@170@150@10x Kalima Ticket@@182@185@0@0@177@1@Dream Coin@Dream Coin@181@200@0@1170|@6704@2@1@1170|@0@508@669
+41@1@100@Jewel of Skill@170@168@Adds skill to weapon, shield.     #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1000|@8885@3@1@1000|@0@509@669
+41@2@103@Jewel of Luck@170@168@Adds Luck option to item.      #Successful rate - 70%@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1030|@8886@3@1@1030|@0@509@669
+42@1@118@Scroll of Quickness@170@225@Increases +50 Attack Speed@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1180|@7240@3@3@1180|1181|1182|@0@509@669
+42@2@119@Scroll of Defense@170@225@Increases +600 Defense@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1190|@7241@3@3@1190|1191|1192|@0@509@669
+42@3@120@Scroll of Wrath@170@225@Increases +600 Physical Attack@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1200|@7242@3@3@1200|1201|1202|@0@509@669
+42@4@121@Scroll of Wizardry@170@225@Increases +600 Wizardry Attack@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1210|@7243@3@3@1210|1211|1212|@0@509@669
+42@5@122@Scroll of Health@170@225@Increases +2500 Health@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1220|@7244@3@3@1220|1221|1222|@0@509@669
+42@6@123@Scroll of Mana@170@225@Increases +5000 Mana@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1230|@7245@3@3@1230|1231|1232|@0@509@669
+42@7@124@Scroll of Battle@170@225@Increases +5% Critical Damage Rate@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1240|@7265@3@3@1240|1241|1242|@0@509@669
+42@8@125@Scroll of Strength@170@225@Increases +5% Excellent Damage Rate@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1250|@7266@3@3@1250|1251|1252|@0@509@669
+43@1@126@Talisman of Chaos Assembly@170@340@You need at least a +10 ~ +15 item level upgrade to prevent this disappearing.    #Use this after putting it into the combination window.@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1260|@7264@3@1@1260|@0@509@669
+43@2@127@Wizards Ring@170@338@Increases wizardry damage +10%   #Increases damage +10%   #Increases attack speed +7@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1270|@6676@3@3@1270|1271|1272|@0@509@669
+43@3@128@Magic Backpack@170@170@This item expands your inventory.@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1280|@7330@3@1@1280|@0@509@669
+44@1@129@Devil Square Ticket@170@170@10x Devil Square Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1290|@6702@3@1@1290|@0@509@669
+44@2@130@Blood Castle Ticket@170@170@10x Blood Castle Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1300|@6703@3@1@1300|@0@509@669
+44@3@131@Kalima Ticket@170@255@10x Kalima Ticket@@182@185@0@0@177@1@Dream Bonuses@Dream Bonuses@181@200@0@1310|@6704@3@1@1310|@0@509@669
