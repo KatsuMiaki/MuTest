@@ -1,3 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 /Data/Font.dpk filter=lfs diff=lfs merge=lfs -text
 /Data/Loading.dpk filter=lfs diff=lfs merge=lfs -text
 /nvngx_dlss.dll filter=lfs diff=lfs merge=lfs -text
